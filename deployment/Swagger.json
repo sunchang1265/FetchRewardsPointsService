@@ -1,0 +1,12 @@
+{
+  "openapi": "3.0.1",
+  "info": {},
+  "paths": {
+    "/Points": {},
+    "/Points/BalanceDetail": {},
+    "/Points/Spend": {},
+    "/Points/addMultiple": {},
+    "/Points/add": {}
+  },
+  "components": {}
+}
