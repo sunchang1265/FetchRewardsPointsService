@@ -1,0 +1,27 @@
+[
+  {
+    "timestamp": "2021-10-25T03:32:02.867Z",
+    "points": 200,
+    "payer": "B"
+  },
+  {
+    "timestamp": "2021-10-25T02:32:02.867Z",
+    "points": -100,
+    "payer": "A"
+  },
+  {
+    "timestamp": "2021-10-25T01:32:02.867Z",
+    "points": 1000,
+    "payer": "A"
+  },
+  {
+    "timestamp": "2021-10-25T04:32:02.867Z",
+    "points": -100,
+    "payer": "A"
+  },
+  {
+    "timestamp": "2021-10-25T05:32:02.867Z",
+    "points": 1000,
+    "payer": "C"
+  }
+]
